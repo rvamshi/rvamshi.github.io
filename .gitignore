@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+*#
+.#*
+.DS_Store
+*~
+node_modules/*
+bower_components/*
+npm-debug.log
+docs/*.html
+docs/*.tex
+htdocs/lib
+package.yml

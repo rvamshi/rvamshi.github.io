@@ -1,0 +1,62 @@
+[
+  {
+    "id": "item1",
+    "title": "Item 1",
+    "image": "images/shoe1.jpg",
+    "color": "Brown",
+    "size":"10.5",
+    "large_image": "images/shoe1.jpg",
+    "price": 9.98,
+    "address": ""
+  },
+  {
+    "id": "leave-to-do-my-utmost",
+    "title": "Item 2",
+    "color": "Blue",
+    "size":"9.0",
+    "image": "https://static.pexels.com/photos/19090/pexels-photo.jpg",
+    "large_image": "images/AmericanAttorneys.jpg",
+    "price": 13.98,
+    "address": ""
+  },
+  {
+    "id": "the-dead-sleep-encircled-by-the-living",
+    "title": "Item 3",
+    "color": "Brown",
+    "size":"11",
+    "image": "images/shoe2.jpg",
+    "large_image": "images/shoe2.jpg",
+    "price": 13.98,
+    "address": ""
+  },
+  {
+    "id": "periods-of-mental-assimilation",
+    "title": "Item 4",
+    "color": "Blue",
+    "size":"10.5",
+    "image": "images/shoe3.jpg",
+    "large_image": "images/shoe3.jpg",
+    "price": 13.99,
+    "address": ""
+  },
+  {
+    "id": "keenly-developed-moral-bankruptcy",
+    "title": "Item 5",
+    "color": "Brown",
+    "size":"10.5",
+    "image": "images/shoe4.jpg",
+    "large_image": "images/shoe4.png",
+    "price": 13.99,
+    "address": ""
+  },
+  {
+    "id": "my-mistresss-sparrow-is-dead",
+    "title": "Item 6",
+    "color": "Brown",
+    "size":"10.5",
+    "image": "images/shoe5.jpg",
+    "large_image": "images/shoe5.jpg",
+    "price": 13.99,
+    "address": ""
+  }
+]
